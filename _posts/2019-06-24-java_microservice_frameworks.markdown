@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Java Micro-Service Frameworks"
-date:   2019-06-24 07:02:17 +0200
+date:   2019-06-24 08:45:17 +0200
 categories: [java, microservice, frameworks]
 tags: [java, microservices, cloud, frameworks]
 permalink: /microservice_frameworks/
@@ -13,6 +13,8 @@ The following list is far from complete (i'd guess). Order of items is just by c
 
 ## Frameworks
 
+* [Thorntail](https://thorntail.io/)
+> Successor of wildfly swarm, very promising
 * [Javalin](https://javalin.io/documentation#getting-started)
 > A simple and easy to learn web framework for Java and Kotlin
 * [JHipster](https://www.jhipster.io)
@@ -22,7 +24,7 @@ The following list is far from complete (i'd guess). Order of items is just by c
 * [Helidon](https://helidon.io)
 > Oracles official framework designed from ground up to build and support microservices. With build in health checks, metrics, Docker and Kubernetes support....
 * [Spring Boot](https://spring.io/guides/gs/spring-boot/)   
-> Not really microservice - but included because it's used quite often 
+> Rich and very popular toolbox to create java / jee applications - defines its own standards 
 * [Spark](http://sparkjava.com/)   
 > Allows you to use Kotlin and Java 8
 * [Swagger](https://swagger.io/)
