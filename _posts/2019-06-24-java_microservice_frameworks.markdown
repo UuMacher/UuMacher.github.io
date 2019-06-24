@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Java Micro-Service Frameworks"
-date:   2019-06-13 09:30:17 +0200
+date:   2019-06-24 07:02:17 +0200
 categories: [java, microservice, frameworks]
 tags: [java, microservices, cloud, frameworks]
+permalink: /microservice_frameworks/
 ---
 # List of microservice framworks for java
 
@@ -44,6 +45,8 @@ The following list is far from complete (i'd guess). Order of items is just by c
 > RESTful Web Services and RESTful Java. fully certified [JAX-RS 2.1](https://jax-rs-spec.java.net/).
 * [Ktor](https://ktor.io)
 > Easy to use, fun and asynchronous. Kotlin
+* [Finagle](https://twitter.github.io/finagle/)
+> Protocol agnostic server framework by Twitter. Very promising. Scala with Java API
 
 ## Reading list
 
