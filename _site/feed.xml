@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4400/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4400/" rel="alternate" type="text/html" /><updated>2019-06-14T11:00:21+02:00</updated><id>http://localhost:4400/feed.xml</id><title type="html">Unterschied &amp;amp; Macher</title><subtitle>Talk is cheap - Show me the code</subtitle><author><name>Volker</name></author><entry><title type="html">Java Micro-Service Frameworks</title><link href="http://localhost:4400/java/microservice/frameworks/2019/06/13/java_microservice_frameworks.html" rel="alternate" type="text/html" title="Java Micro-Service Frameworks" /><published>2019-06-13T09:30:17+02:00</published><updated>2019-06-13T09:30:17+02:00</updated><id>http://localhost:4400/java/microservice/frameworks/2019/06/13/java_microservice_frameworks</id><content type="html" xml:base="http://localhost:4400/java/microservice/frameworks/2019/06/13/java_microservice_frameworks.html">&lt;h1 id=&quot;list-of-microservice-framworks-for-java&quot;&gt;List of microservice framworks for java&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4400/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4400/" rel="alternate" type="text/html" /><updated>2019-07-08T16:29:37+02:00</updated><id>http://localhost:4400/feed.xml</id><title type="html">Unterschied &amp;amp; Macher</title><subtitle>Talk is cheap - Show me the code</subtitle><author><name>Volker</name></author><entry><title type="html">Micronaut Framewwork</title><link href="http://localhost:4400/java/microservice/frameworks/2019/07/08/micronaut.html" rel="alternate" type="text/html" title="Micronaut Framewwork" /><published>2019-07-08T15:30:17+02:00</published><updated>2019-07-08T15:30:17+02:00</updated><id>http://localhost:4400/java/microservice/frameworks/2019/07/08/micronaut</id><content type="html" xml:base="http://localhost:4400/java/microservice/frameworks/2019/07/08/micronaut.html">&lt;h1 id=&quot;micronaut&quot;&gt;Micronaut&lt;/h1&gt;
+
+&lt;p&gt;Good Documentation: &lt;a href=&quot;https://docs.micronaut.io/latest/guide/index.html&quot;&gt;latest&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;reading-list&quot;&gt;Reading list&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.baeldung.com/micronaut&quot;&gt;Baeldung on micronaut&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.adesso.de/de/news/blog/micronaut-eine-alternative-zu-spring-4.jsp&quot;&gt;Micronaut - eine Alternative zu Spring&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jax.de/blog/core-java-jvm-languages/microframeworks-unter-der-lupe-javalin-vs-ktor-vs-spring-fu-vs-micronaut/&quot;&gt;Microservice frameworks unter der Lupe&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codelabs.developers.google.com/codelabs/cloud-micronaut-kubernetes/#1&quot;&gt;Deploy to GCP and K8s&lt;/a&gt;
+…&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>volker_benders</name></author><category term="micronaut" /><category term="java" /><category term="jvm" /><category term="microservices" /><category term="cloud" /><category term="frameworks" /><summary type="html">Micronaut</summary></entry><entry><title type="html">Java Micro-Service Frameworks</title><link href="http://localhost:4400/java/microservice/frameworks/2019/06/13/java_microservice_frameworks.html" rel="alternate" type="text/html" title="Java Micro-Service Frameworks" /><published>2019-06-13T09:30:17+02:00</published><updated>2019-06-13T09:30:17+02:00</updated><id>http://localhost:4400/java/microservice/frameworks/2019/06/13/java_microservice_frameworks</id><content type="html" xml:base="http://localhost:4400/java/microservice/frameworks/2019/06/13/java_microservice_frameworks.html">&lt;h1 id=&quot;list-of-microservice-framworks-for-java&quot;&gt;List of microservice framworks for java&lt;/h1&gt;
 
 &lt;p&gt;The following list is far from complete (i’d guess). Order of items is just by chance and does not reflect importance, quality or preference.&lt;/p&gt;
 
@@ -85,6 +97,16 @@
       &lt;p&gt;Easy to use, fun and asynchronous. Kotlin&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vertx.io/blog/posts/introduction-to-vertx.html&quot;&gt;vert.x&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Unopinionated, multi language toolbox: Java, JavaScript, Groovy, Ruby, Ceylon, Scala and Kotlin&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ratpack.io/&quot;&gt;ratpack.io&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;A set of Java libraries for building scalable HTTP applications&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;reading-list&quot;&gt;Reading list&lt;/h2&gt;
@@ -94,6 +116,7 @@
   &lt;li&gt;&lt;a href=&quot;https://www.gajotres.net/best-available-java-restful-micro-frameworks/&quot;&gt;Top 8 Java RESTful Micro Frameworks – Pros/Cons | Gajotres.net&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://jax.de/blog/microservices/warum-frameworks-nicht-genug-sind/&quot;&gt;Grundkurs Microservices: Warum Frameworks nicht genug sind!&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.quora.com/What-is-the-best-micro-service-framework-for-the-Java-platform&quot;&gt;Quora: What is the best micro-service framework for the Java platform&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;…&lt;/p&gt;</content><author><name>Volker</name></author><category term="java" /><category term="microservices" /><category term="cloud" /><category term="frameworks" /><summary type="html">List of microservice framworks for java</summary></entry></feed>
+  &lt;li&gt;&lt;a href=&quot;https://superkotlin.com/web-applications-javalin-kotlin/&quot;&gt;Javalin - 
+Developing web applications with Javalin and Kotlin&lt;/a&gt;
+…&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Volker</name></author><category term="java" /><category term="jvm" /><category term="microservices" /><category term="cloud" /><category term="frameworks" /><summary type="html">List of microservice framworks for java</summary></entry></feed>

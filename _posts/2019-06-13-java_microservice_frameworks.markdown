@@ -3,7 +3,7 @@ layout: post
 title:  "Java Micro-Service Frameworks"
 date:   2019-06-13 09:30:17 +0200
 categories: [java, microservice, frameworks]
-tags: [java, microservices, cloud, frameworks]
+tags: [java, jvm, microservices, cloud, frameworks]
 ---
 # List of microservice framworks for java
 
@@ -44,6 +44,11 @@ The following list is far from complete (i'd guess). Order of items is just by c
 > RESTful Web Services and RESTful Java. fully certified [JAX-RS 2.1](https://jax-rs-spec.java.net/).
 * [Ktor](https://ktor.io)
 > Easy to use, fun and asynchronous. Kotlin
+* [vert.x](https://vertx.io/blog/posts/introduction-to-vertx.html)
+> Unopinionated, multi language toolbox: Java, JavaScript, Groovy, Ruby, Ceylon, Scala and Kotlin
+* [ratpack.io](https://ratpack.io/)
+> A set of Java libraries for building scalable HTTP applications
+
 
 ## Reading list
 
@@ -51,5 +56,6 @@ The following list is far from complete (i'd guess). Order of items is just by c
 * [Top 8 Java RESTful Micro Frameworks – Pros/Cons \| Gajotres.net](https://www.gajotres.net/best-available-java-restful-micro-frameworks/)
 * [Grundkurs Microservices: Warum Frameworks nicht genug sind!](https://jax.de/blog/microservices/warum-frameworks-nicht-genug-sind/)
 * [Quora: What is the best micro-service framework for the Java platform](https://www.quora.com/What-is-the-best-micro-service-framework-for-the-Java-platform)
-
+* [Javalin - 
+Developing web applications with Javalin and Kotlin](https://superkotlin.com/web-applications-javalin-kotlin/)
 ...
