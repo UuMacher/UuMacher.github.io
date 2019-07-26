@@ -12,6 +12,10 @@ The following list is far from complete (i'd guess). Order of items is just by c
 
 ## Frameworks
 
+* [Quarkus](https://quarkus.io/)
+> A Kubernetes Native Java stack tailored for GraalVM & OpenJDK HotSpot, crafted from the best of breed Java libraries and standards
+ 
+ At the time of updating this page Quarkus was the most recent microservice framework.
 * [Javalin](https://javalin.io/documentation#getting-started)
 > A simple and easy to learn web framework for Java and Kotlin
 * [JHipster](https://www.jhipster.io)
